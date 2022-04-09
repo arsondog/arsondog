@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **arsondog/arsondog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me! 
+	Ayo. I'm arsondog. 
+	I go by many names. But that's what not important. 
+	I'm many things: A programmer, A catboy, A student, A Python User, Big supporter of Powernetwork. 
+	I'm very chill. You'll see me around doing my thing. Nice to meetcha. 🙂
