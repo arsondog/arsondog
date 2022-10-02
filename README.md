@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 	I go by many names. But that's what not important. 
 	I'm many things: A programmer, A catboy, A Python User, Big supporter of Powernetwork. 
 	I'm very chill. You'll see me around doing my thing. Nice to meetcha. 🙂
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsondog&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arsondog&repo=Ayo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsondog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
