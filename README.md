@@ -12,13 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello. I'm Arson. 
-
+#aboutme
+Ayo. I'm Arson. 
 I go by many names. But that's what not important.
-
 I'm many things: A GitHuber, a catboy, a programmer, and a big supporter of Powernetwork. 
-
 I'm very chill. You'll see me around doing my thing. Nice to meetcha. 🙂
 
 
@@ -31,3 +28,4 @@ I'm very chill. You'll see me around doing my thing. Nice to meetcha. 🙂
 
 
 
+> Checkout [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
