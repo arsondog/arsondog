@@ -12,12 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#aboutme
+# About
 Ayo. I'm Arson. 
 I go by many names. But that's what not important.
 I'm many things: A GitHuber, a catboy, a programmer, and a big supporter of Powernetwork. 
 I'm very chill. You'll see me around doing my thing. Nice to meetcha. 🙂
 
+
+### Stats
+Here are my Github statistics:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsondog&show_icons=true&theme=radical)]
