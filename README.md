@@ -25,7 +25,7 @@ I'm very chill. You'll see me around doing my thing. Nice to meetcha. 🙂
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsondog&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsondog&layout=compact&theme=radical)](github.com/arsondog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsondog&layout=compact&theme=radical)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arsondog&repo=Ayo&theme=radical)](https://github.com/arsondog/Ayo)
 
