@@ -31,4 +31,4 @@ Here are my Github statistics:
 
 
 
-> Checkout [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+> **Statistics** is provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
