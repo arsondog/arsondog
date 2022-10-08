@@ -27,7 +27,7 @@ Here are my Github statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsondog&layout=compact&theme=radical)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arsondog&repo=Ayo&theme=radical)](https://github.com/arsondog/Ayo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arsondog&repo=Ayo&theme=radical)](https://github.com/Arson-Studios/Ayo)
 
 
 
